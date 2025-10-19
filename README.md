@@ -1,6 +1,6 @@
 ADUZEM DevTool Bypass (Video Hızlandırma)
 
-ADUZEM portalındaki videoları 16x'e kadar hızlandırmak isteyen "kardeşcanlar" için yazılmış basit bir UserScript'tir. Sitedeki F12 (Geliştirici Araçları) engelini aşar ve Video Speed Controller gibi eklentilerin sorunsuz çalışmasına izin verir.
+ADUZEM portalındaki videoları 16x'e kadar hızlandırmak isteyen kardeşcanlar için yazılmış basit bir UserScript'tir. Sitedeki F12 (Geliştirici Araçları) engelini aşar ve Video Speed Controller gibi eklentilerin sorunsuz çalışmasına izin verir.
 
 Bu rehber, iki temel eklenti kurmanızı gerektirir:
 
@@ -8,7 +8,7 @@ Bu rehber, iki temel eklenti kurmanızı gerektirir:
 
     Tampermonkey (Engeli aşan bu script'i çalıştırmak için)
 
-Kurulum Adımları (Çok Basit)
+Kurulum Adımları 
 
 Adım 1: "Video Speed Controller" Eklentisini Kurun
 
