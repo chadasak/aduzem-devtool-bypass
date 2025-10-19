@@ -28,7 +28,7 @@ Adım 3: F12 Engelini Aşan Script'i Tampermonkey'e Ekleyin
 
     "Create a new script..." (Yeni bir script oluştur...) seçeneğini seçin.
 
-    <img width="260" height="387" alt="image" src="https://github.com/user-attachments/assets/30a3743e-de0e-4501-b918-dc6f707df343" />
+<img width="260" height="387" alt="image" src="https://github.com/user-attachments/assets/30a3743e-de0e-4501-b918-dc6f707df343" />
 
     Karşınıza çıkan kod editöründeki tüm varsayılan yazıları silin.
 
@@ -42,10 +42,10 @@ Adım 4: Video Speed Controller Ayarları ve Kullanım
 
     Artık her şey hazır. Video Speed Controller eklentisinin simgesine tıklayın ve "Settings" (Ayarlar) deyin.
 
-    <img width="168" height="161" alt="image" src="https://github.com/user-attachments/assets/343e10ca-b063-4343-8c11-8bed65ecb435" />
+<img width="168" height="161" alt="image" src="https://github.com/user-attachments/assets/343e10ca-b063-4343-8c11-8bed65ecb435" />
 
     Hızlandırma tuşunu "G" (veya istediğiniz başka bir tuş) olarak ayarlayın.
 
-    <img width="416" height="304" alt="image" src="https://github.com/user-attachments/assets/39a4d9e4-87b0-4eba-96ae-c5887c022490" />
+<img width="416" height="304" alt="image" src="https://github.com/user-attachments/assets/39a4d9e4-87b0-4eba-96ae-c5887c022490" />
 
     ADUZEM sitesine gidip videonuzu açın. Belirlediğiniz tuşa (örneğin "G") bastıkça video 16x'e kadar hızlanacaktır.
