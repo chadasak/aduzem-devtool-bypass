@@ -32,7 +32,7 @@ Adım 3: F12 Engelini Aşan Script'i Tampermonkey'e Ekleyin
 
     Karşınıza çıkan kod editöründeki tüm varsayılan yazıları silin.
 
-    Bu repo'da bulunan chadasak.user.js (veya kodun olduğu dosya) içindeki kodun tamamını kopyalayın.
+    Bu repo'da bulunan DisableDevToolByPass.js (veya kodun olduğu dosya) içindeki kodun tamamını kopyalayın.
 
     O boş kod editörüne yapıştırın.
 
