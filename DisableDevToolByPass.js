@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Neutralize DisableDevtool 
-// @match        https://xdddd/*
+// @match        https://evdekal10.adu.edu.tr/*
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
